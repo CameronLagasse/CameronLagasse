@@ -20,7 +20,6 @@ Most of what I build lives in private repos, so here it is in words.
 - **A support agent for cluster users.** It answers questions in Slack, digs through logs and metrics when a job fails, and proposes improvements to its own knowledge that a person accepts or refuses.
 - **A multi-agent engineering setup.** Coordinators plan the work, workers implement it in isolated worktrees, and reviewers from a different model family check every change before it merges.
 - **Failure investigation that shows its evidence.** Tooling that ties a failed training job to a cause, whether that is the node, the network, storage or the scheduler, and backs each claim with a query result.
-- **[example-files](https://github.com/CameronLagasse/example-files).** Helm charts and configs from my homelab (Grafana, Home Assistant, nginx, an Airflow DAG) that you can copy and adapt.
 
 ## What I'm working on now
 
